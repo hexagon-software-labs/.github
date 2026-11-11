@@ -1,0 +1,6 @@
+# Logo generator stays local: only profile/ goes to the public .github repo.
+node_modules/
+tools/
+package.json
+pnpm-lock.yaml
+.DS_Store
