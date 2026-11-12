@@ -5,26 +5,35 @@
   </picture>
 </p>
 
-<p align="center"><b>We build software that runs real businesses.</b></p>
+<p align="center"><b>We design, build and run software for businesses.</b></p>
+
+<p align="center">
+  <a href="https://hexagon-software.com">hexagon-software.com</a> ·
+  <a href="https://hexagon-software.com/fa/">فارسی</a> ·
+  <a href="mailto:info@hexagon-software.com">info@hexagon-software.com</a>
+</p>
 
 ---
 
-Hexagon is a software company. We design, build and run cloud products for businesses, from the first sketch to production and the support that follows.
+Hexagon is a software company. We take a product from the first sketch to production, then keep it running: hosting, monitoring, updates and support.
 
-## What we do
+## What we build
 
-- **Products.** Software we own and run as a service, built for the market we work in.
-- **Platforms.** Multi-tenant cloud systems that keep working when the network does not.
-- **Engineering.** Backend, web, mobile, edge devices and the infrastructure under them.
+- **Web apps.** Dashboards, back offices and customer portals.
+- **Mobile apps.** Android and installable web apps for staff and customers.
+- **Cloud platforms.** Multi-tenant SaaS with roles, billing and audit logs.
+- **Offline-first systems.** Point of sale and field apps that keep working when the internet drops, then sync.
+- **Integrations.** Payment gateways, tax systems, SMS, printers and other hardware.
+- **Running it.** Deployment, monitoring, backups and support after launch.
 
-## Products
+## Tools we use
 
-| Product | What it is |
-| --- | --- |
-| **[Kafeban · کافه‌بان](https://kafeban.ir)** | Cloud operating system for cafés and restaurants: ordering, kitchen printing, payments, tax e-invoices and an owner dashboard. |
+TypeScript · NestJS · Go · PostgreSQL · MySQL · Redis · React · Next.js · Docker · Kubernetes · Android
 
-More products are on the way.
+## Our product
+
+**[Kafeban · کافه‌بان](https://kafeban.ir)**: software for cafés and restaurants.
 
 ## Contact
 
-Reach us through our products' websites, or open an issue in one of our public repositories.
+Have an idea for software? Email **[info@hexagon-software.com](mailto:info@hexagon-software.com)** or visit **[hexagon-software.com](https://hexagon-software.com)**.
